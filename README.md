@@ -6,7 +6,7 @@
 
 ---
 
-### 🌍 Connect with me
+### Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/anto_gre/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-greco-bab832264/)  
 
