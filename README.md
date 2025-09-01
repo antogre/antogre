@@ -1,9 +1,8 @@
-# Hi 👋, I'm Antonio
+# Hi, I'm Antonio
 
-- 🎓 Laureato Magistrale in **Data Science** (UniCT)  
-- 💼 Attualmente alla ricerca di opportunità lavorative  
-- 🌱 Sto approfondendo **Machine Learning, AI, LangChain/LangGraph, Cloud e Big Data**  
-- 📧 Contattami: [antogre01@gmail.com](mailto:antogre01@gmail.com)  
+- Laureato Magistrale in **Data Science** (UniCT)  
+- Sto approfondendo **Machine Learning, AI, LangChain/LangGraph, Cloud e Big Data**  
+- Contattami: [antogre01@gmail.com](mailto:antogre01@gmail.com)  
 
 ---
 
@@ -13,15 +12,15 @@
 
 ---
 
-### ⚡ About Me
-- 🔬 Appassionato di **AI e sistemi intelligenti**  
-- 🧩 Mi piace risolvere problemi complessi con approcci creativi  
-- 📊 Background solido in **machine learning, NLP, computer vision e data science**  
-- 🚀 Sempre curioso di imparare nuove tecnologie e metodologie  
+### About Me
+- Appassionato di **AI e sistemi intelligenti**  
+- Mi piace risolvere problemi complessi con approcci creativi  
+- Background solido in **machine learning, NLP, computer vision e data science**  
+- Sempre curioso di imparare nuove tecnologie e metodologie  
 
 ---
 
-### 🖥️ Tech Stack
+### Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
